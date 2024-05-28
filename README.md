@@ -1,4 +1,4 @@
-<h1 align=center> JS EXERCISES </h1>
+<h1 align=center> EXERCISES  JS </h1>
 
 #
 ### SOBRE
