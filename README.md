@@ -1,6 +1,6 @@
 <h1 align=center> EXERCISES  JS </h1>
 
-#
+
 ### SOBRE
 
 - Contém diversos projetos desenvolvido em aula, com o intuito de resolução dos execícios propostos.
