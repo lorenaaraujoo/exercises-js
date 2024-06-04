@@ -15,6 +15,7 @@
   - Métodos, Classes e Objetos;
   - Identificação e Tratamento de Exceções;
   - Estrutura de Dados e Implementações;
+  - API's;
 
 #
 ### TECNOLOGIAS
